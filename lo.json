@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "libre-oferta-1580218757483",
+  "private_key_id": "4e6c84be32481c3a23e16280f35b4f3ba8ad9caa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCf4Rmu9nBQt4p1\nA91YmnozLxI9iX1zkWKS134gYzJtmFxMctDBQks1Kovs9RDVdVooXoVKa+44KGmf\nzvSmq+mpOTNa42wIwSuoYjd0ygZ51tWlakKdRiU1UsLb1bN2IA6HiDCRtZCXWtah\ngKHj6+puCJoJJh6n4xcasL/CwO/oArpRl3fTvTr0AZ/SYafniW+i4exfzBjQ5okK\n37cO0vwrwXKC2/Qc7izNH6b+qba2LSxNOiSiwrq9HfwgI/RVs60SgvhMwUDai7Mg\nEGewHPAPzrRjwI+beSJDPVhHUxDvoLAN0LVAgu3wO57Pxx33/alV0V0foq5b5ASF\nvJt6NBK9AgMBAAECggEAG88MR9fDKPMH0PsrWsBB3ZnEJzJ9QOcKmYaEgG8opBHy\nifSVlWvpx3VfUce9lhdbp3ZrYkq8LIXw+1REzyHLWn0hzt8MWUh6RsdQpI6ISlSB\nJEzDifYbvjbnQFQfKz5/sHjSk+GcJQtuljhY0FtmUx3JZyp7fhG8oM6aCC7Fe9oJ\nAOcguD4Xm4RZv8kIKmoIG885tPne6o21yYddoXTRhwnWN695Gv+7ydBFDmQcfFT7\nmo66YDYHreglt5NOs9GGRnJwtCWLFCyPuXhGBiYt9QyxENeJjH0ACj4eNPu1gswX\n6wTDEceJgEapiyq0WxrAlyHl5JfRzzkbBj+U/Hz+8QKBgQDbXIzSuhxyelFmnNOo\nIeXVRPwDcRMY6HIucnM2suQgpkJcUORYXYgGbypEHsXx/ZUW3wtL/PPXn343aEL1\npPBIaDiCtLHs74P29YzHfEfpR7vewBsWy4LWzOiVFgGteLBT61eYM6jQbeOPKyzj\nVMm+JVfm6pJHcPj00X707NHIEQKBgQC6lTZEHqscgmFiuYPTsF4F7l21rgDwfhkW\n9uwLvZ6EB6FRTZpHe0+m8QJ80KvBnKnCYZf6PXMgt+f9RdU7ab3WpkQfd5HDH5KA\nv4U/nS6OmC3qc3pjsi0z+MLrEFoeevNrp+3XMHHn1vMLkK1OaP1/4NK67vPFT8nb\nmZ1r5DMr7QKBgQDa3OB0b9RqM7h71QUov4l83DNFi9AuDd2+kdp6PMp3+OpFCUCL\nGebZ5JgbF0kQRJ44D5pJ2ru/6xYXWiNUy5gh5jpbzsWnTOIxyJUJg+qLylKb0Lg2\nah7FCfUUqrxJxBzJ3gmrhf9s1fcxpTZIKxSObtvhPTFtrj32pf8xiAdWwQKBgAxt\nVcDxvfnXIT9fFc2qqIiCmNE59qwN6gPijFQ32+/1RiRRI95w8xwuXzkK+PWbRp9A\nusua/ikGtrfix9H+N/us9UqXPykc2DglCW30PR6YOi6sZFFxk5srjWf0ndv72myo\nMaosetmzMlrp1vErAv9abQ6wTaItr0cmExsVhub9AoGBAKKe89UVdKdLESkDiDmH\nUrmnfKIkNGGjDqEYztcfI6HYc/iZBAV1id2dNWCJ8hUn10WPYbuEnXX3pEIPpopD\nBel3fjc1bYICz6NqrO8k7xuUUBFql07Z/UsUNH5EtghuzafWwjbOyDyBysBnEoW6\nXhbY7UoXPlZ2QfOhqkfSyUZu\n-----END PRIVATE KEY-----\n",
+  "client_email": "libreoferta-store@libre-oferta-1580218757483.iam.gserviceaccount.com",
+  "client_id": "117112406283097757054",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/libreoferta-store%40libre-oferta-1580218757483.iam.gserviceaccount.com"
+}

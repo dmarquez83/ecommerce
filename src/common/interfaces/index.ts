@@ -1,0 +1,11 @@
+export { ICharacteristic } from './characteristic.interface';
+export { ILocation } from './locations.interface';
+export { IPaginationOptions } from './paginateOptions.interface';
+export { IPermission } from './permission.interface';
+export { IPropertiesVariation } from './productPropertiesVariations.interfaces';
+export { IProductStock } from './productStock.interfaces';
+export { IVariations } from './properties.interfaces';
+export { IResponseStructure } from './responses.interface';
+export { IResponseStructureReturn } from './responsesReturn.interface';
+export { IFirebaseProjectsConfig } from './firebaseProjectsConfig.interface';
+export { IExtraDataToSave } from './extraDataToSave.interface';
